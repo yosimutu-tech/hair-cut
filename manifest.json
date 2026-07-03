@@ -1,0 +1,16 @@
+{
+  "name": "訪問美容 カット予約",
+  "short_name": "カット予約",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fdf6f0",
+  "theme_color": "#e8b4b8",
+  "icons": [
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
